@@ -1,0 +1,73 @@
+body{
+    background: url(imagenes/wallpaperbetter.com_1920x1080.jpg);
+    font-family: sans-serif;
+    
+}
+
+.login{
+    width: 400px;
+    height: 0px;
+    background-color: transparent;
+    color:white;
+    position:absolute;
+    top:10%;
+    left: 50%;
+    transform: translate(-50%,-50%);    
+}
+
+.login h1{
+    color: white;
+    text-align: center;
+    padding-right: 10%;
+}
+
+.login h5{
+    width: 1px;
+}
+.login input[type="text"],
+.login input[type="password"]{
+    padding: 0 20px;
+    background: white;    
+    border:black;
+    height: 40px;
+    width: 85%;
+    color: black;
+    outline: none;
+    font-size: 16px;
+    
+    border-radius: 50px;
+    border-bottom-left-radius: 50px;
+    box-shadow: 1px -1px 116px 0px rgba(0,0,0,0.75);
+}
+.login input[type="submit"]{
+    height: 40px;
+    color:white;
+    background: grey;
+    font-size: 18px;
+    display: block;
+    border-radius: 20px;
+    width: 50%;
+    margin-top: 30px;
+}
+
+.login a{
+    padding-left: 15%;
+    top: 50px;
+    font-size: 15px;
+    color:blue
+
+     
+}
+
+.login{
+    border-radius: 50px;
+    border-bottom-left-radius: 50px;
+    box-shadow: 1px -1px 116px 0px rgba(0,0,0,0.75);
+}
+.login h3{
+    position: relative;
+    top: 15px;
+    left: 1px;
+}
+
+

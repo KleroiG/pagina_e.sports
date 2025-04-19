@@ -7,7 +7,7 @@
 A continuación se presentan algunas imágenes del funcionamiento de la plataforma:
 
 ![image](https://github.com/user-attachments/assets/d2d0d0e3-7787-4ba7-92d1-6f7f3f6479ad)
-*Interfaz principal de la plataforma
+*Interfaz principal de la plataforma*
 
 ---
 > Si tienes preguntas, sugerencias o deseas contribuir, ¡no dudes en contactarnos o crear un issue!

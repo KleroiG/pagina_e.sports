@@ -6,7 +6,7 @@
 
 A continuación se presentan algunas imágenes del funcionamiento de la plataforma:
 
-![WhatsApp Image 2025-04-18 at 7 57 34 PM](https://github.com/user-attachments/assets/5ae7a060-4361-4b3a-b073-1b249b8898a4)
+![image](https://github.com/user-attachments/assets/d2d0d0e3-7787-4ba7-92d1-6f7f3f6479ad)
 *Interfaz principal de la plataforma
 
 ---
